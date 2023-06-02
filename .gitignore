@@ -1,1 +1,6 @@
 .env
+.terraform/*
+*.hcl
+env.auto.tfvars
+*.tfplan
+*.tfstate
