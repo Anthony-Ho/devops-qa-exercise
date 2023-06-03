@@ -5,7 +5,7 @@ variable "subscription_id" {
 }
 variable "client_id" {
     type = string
-    description = "The Azure Tenant ID"
+    description = "The Azure Service Principal ID"
 }
 variable "client_secret" {
     type = string
@@ -14,7 +14,7 @@ variable "client_secret" {
 }
 variable "tenant_id" {
     type = string
-    description = "The Azure Service Principal ID"
+    description = "The Azure Tenant ID"
     sensitive = true
 }
 
@@ -37,7 +37,6 @@ variable "key" {
 variable "access_key" {
     type = string
     description = "The storage access key."
-    sensitive = true
 }
 
 # Resource Group/Location
