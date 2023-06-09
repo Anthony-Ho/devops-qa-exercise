@@ -5,3 +5,4 @@ env.auto.tfvars
 *.tfplan
 *.tfstate
 *.backup
+.DS*
