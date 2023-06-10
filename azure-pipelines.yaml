@@ -4,7 +4,7 @@ stages:
   jobs:
   - job: Build
     pool:
-      name: Hosted Ubuntu 1604
+      name: Hosted Ubuntu
       image: "ubuntu-latest"
     steps:
     - task: CmdLine@1
