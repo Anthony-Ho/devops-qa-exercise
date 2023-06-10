@@ -1,10 +1,10 @@
 name: Azure Pipelines
+pool:
+  vmImage: 'ubuntu-latest'
 stages:
 - stage: Build
   jobs:
   - job: Build
-    pool:
-      image: "ubuntu-latest"
     steps:
     - task: CmdLine@2
       displayName: Install Newman
