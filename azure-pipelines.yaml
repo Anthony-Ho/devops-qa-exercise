@@ -15,6 +15,6 @@ stages:
       displayName: Test Starter API by Newman
       continueOnError: true
       inputs:
-        script: 'ls -la'
+        script: 'newman run ./starterapis.json'
 
     
