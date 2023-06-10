@@ -4,10 +4,9 @@ stages:
   jobs:
   - job: Build
     pool:
-      name: Hosted Ubuntu
       image: "ubuntu-latest"
     steps:
-    - task: CmdLine@1
+    - task: CmdLine@2
       displayName: Install Newman
       inputs:
         script: 'sudo npm install -g newman'
