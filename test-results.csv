@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1686488645130,97,HTTP Request - Sample test,200,OK,Endurance Test 1-2,text,true,,158695,167,3,3,https://jsonplaceholder.typicode.com/comments/?postid=2,60,0,39
+1686488645281,102,HTTP Request - Sample test,200,OK,Endurance Test 1-5,text,true,,158711,167,6,6,https://jsonplaceholder.typicode.com/comments/?postid=5,73,0,36
+1686488645082,337,HTTP Request - Sample test,200,OK,Endurance Test 1-1,text,true,,158705,167,5,5,https://jsonplaceholder.typicode.com/comments/?postid=1,304,0,47
+1686488645184,364,HTTP Request - Sample test,200,OK,Endurance Test 1-3,text,true,,158696,167,7,7,https://jsonplaceholder.typicode.com/comments/?postid=3,330,0,42
+1686488645530,105,HTTP Request - Sample test,200,OK,Endurance Test 1-10,text,true,,158703,168,8,8,https://jsonplaceholder.typicode.com/comments/?postid=10,71,0,50
+1686488645331,349,HTTP Request - Sample test,200,OK,Endurance Test 1-6,text,true,,158706,167,8,8,https://jsonplaceholder.typicode.com/comments/?postid=6,318,0,35
+1686488645630,114,HTTP Request - Sample test,200,OK,Endurance Test 1-12,text,true,,158703,168,8,8,https://jsonplaceholder.typicode.com/comments/?postid=12,66,0,41
+1686488645379,378,HTTP Request - Sample test,200,OK,Endurance Test 1-7,text,true,,158696,167,7,7,https://jsonplaceholder.typicode.com/comments/?postid=7,331,0,47
+1686488645681,119,HTTP Request - Sample test,200,OK,Endurance Test 1-13,text,true,,158709,168,7,7,https://jsonplaceholder.typicode.com/comments/?postid=13,76,0,52
+1686488645428,386,HTTP Request - Sample test,200,OK,Endurance Test 1-8,text,true,,158696,167,6,6,https://jsonplaceholder.typicode.com/comments/?postid=8,341,0,38
+1686488645233,624,HTTP Request - Sample test,200,OK,Endurance Test 1-4,text,true,,158692,167,6,6,https://jsonplaceholder.typicode.com/comments/?postid=4,577,0,268
+1686488645480,383,HTTP Request - Sample test,200,OK,Endurance Test 1-9,text,true,,158694,167,5,5,https://jsonplaceholder.typicode.com/comments/?postid=9,336,0,35
+1686488645837,100,HTTP Request - Sample test,200,OK,Endurance Test 1-16,text,true,,158705,168,6,6,https://jsonplaceholder.typicode.com/comments/?postid=16,64,0,45
+1686488645582,386,HTTP Request - Sample test,200,OK,Endurance Test 1-11,text,true,,158702,168,5,5,https://jsonplaceholder.typicode.com/comments/?postid=11,340,0,47
+1686488645883,105,HTTP Request - Sample test,200,OK,Endurance Test 1-17,text,true,,158703,168,5,5,https://jsonplaceholder.typicode.com/comments/?postid=17,69,0,38
+1686488645983,91,HTTP Request - Sample test,200,OK,Endurance Test 1-19,text,true,,158701,168,5,5,https://jsonplaceholder.typicode.com/comments/?postid=19,57,0,37
+1686488646031,112,HTTP Request - Sample test,200,OK,Endurance Test 1-20,text,true,,158701,168,4,4,https://jsonplaceholder.typicode.com/comments/?postid=20,69,0,43
+1686488645780,405,HTTP Request - Sample test,200,OK,Endurance Test 1-15,text,true,,158698,168,3,3,https://jsonplaceholder.typicode.com/comments/?postid=15,347,0,56
+1686488645733,453,HTTP Request - Sample test,200,OK,Endurance Test 1-14,text,true,,158698,168,2,2,https://jsonplaceholder.typicode.com/comments/?postid=14,389,0,61
+1686488645928,364,HTTP Request - Sample test,200,OK,Endurance Test 1-18,text,true,,158690,168,1,1,https://jsonplaceholder.typicode.com/comments/?postid=18,334,0,51
