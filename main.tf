@@ -27,3 +27,9 @@ module "resource_group" {
   location             = "${var.location}"
 }
 # Reference the AppService Module here.
+
+module "appservice" {
+  source               = "./modules/appservice"
+  resource_group       = "${var.resource_group}"
+  location             = "${var.location}"
+}

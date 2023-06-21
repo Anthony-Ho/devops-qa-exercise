@@ -1,5 +1,7 @@
 # Resource Group/Location
-variable "" {}
+variable "name" {
+  
+}
 variable "" {}
 variable "" {}
 variable "" {}
