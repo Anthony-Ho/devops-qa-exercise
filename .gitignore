@@ -4,7 +4,9 @@
 env.auto.tfvars
 *.tfplan
 *.tfstate
-*.backup
+terraform.tfstate.backup
 .DS*
 report
 environments
+*.log
+qa
